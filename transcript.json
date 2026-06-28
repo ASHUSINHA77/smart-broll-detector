@@ -1,0 +1,54 @@
+{
+  "title": "Mountain Coffee Day Vlog",
+  "duration": 60,
+  "segments": [
+    {
+      "id": "s1",
+      "start": 0,
+      "end": 5,
+      "text": "Welcome back to the channel. Today I am taking you along on a slow coffee day."
+    },
+    {
+      "id": "s2",
+      "start": 6.5,
+      "end": 11.5,
+      "text": "I was feeling pretty stressed this week and needed a reset."
+    },
+    {
+      "id": "s3",
+      "start": 13.5,
+      "end": 19,
+      "text": "We drove out past rolling hills, pine forests, and a wide valley."
+    },
+    {
+      "id": "s4",
+      "start": 22.5,
+      "end": 28,
+      "text": "At the entrance, a small stall was roasting Ethiopian beans in an old drum."
+    },
+    {
+      "id": "s5",
+      "start": 31.5,
+      "end": 37,
+      "text": "I grabbed a mug, sat on the wooden deck, and watched the river while the pour-over cooled."
+    },
+    {
+      "id": "s6",
+      "start": 41,
+      "end": 46.5,
+      "text": "After that we wandered through the old town streets and vintage shops."
+    },
+    {
+      "id": "s7",
+      "start": 50,
+      "end": 55,
+      "text": "This reminded me that the trip was worth it even when plans change."
+    },
+    {
+      "id": "s8",
+      "start": 56,
+      "end": 60,
+      "text": "Thanks for watching, and see you next time."
+    }
+  ]
+}
